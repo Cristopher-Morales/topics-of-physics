@@ -34,8 +34,9 @@ Notes-Computational-Fluid-Dynamics/
 ├── Discrete_adjoint_design_optimization.pdf
 ├── README.md
 └── LICENSE
+```
 
-Intended Audience
+### Intended Audience
 
     Graduate and advanced undergraduate students in fluid mechanics or aerospace engineering
 
@@ -43,12 +44,12 @@ Intended Audience
 
     Self-learners studying Computational Fluid Dynamics
 
-Notes
+### Notes
 
     These notes reflect my personal understanding of the topics and are not intended to replace textbooks or peer-reviewed literature.
 
     The material may evolve over time as new topics are added or existing notes are refined.
 
-License
+### License
 
 This repository is distributed under the GNU General Public License v3.0 (GPL-3.0).
